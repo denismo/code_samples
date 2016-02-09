@@ -24,19 +24,19 @@ Requirements
 Usage
 =====
 
-1. Build using maven
+Build using maven
     
 > mvn package
   
-2. Run the application
+Run the application
 
-  Mode 1: 
+Mode 1: 
   
 > java -jar target/blackjack-1.0-SNAPSHOT-jar-with-dependencies.jar
   
-  Will ask for input of cards. Sample input: AS,2D
+Will ask for input of cards. Sample input: AS,2D
   
-  Mode 2: 
+Mode 2: 
   
 > java -jar target/blackjack-1.0-SNAPSHOT-jar-with-dependencies.jar AS,2D
   
